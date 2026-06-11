@@ -9,6 +9,8 @@ AutoRoot flashes your boot image and unlocks your bootloader automatically. It a
 AutoRoot installs Magisk on your device automatically and pulls your patched boot image ready for flashing in an automated process.
 ## ⌨️ The enter-mechanic
 For each step, you just got to press enter and the tool does the step automatically. Sometimes you have to follow simple instructions from the tool if you have to do something manually, for example enabling USB debugging etc.
+# How to use it
+Download the repository and install Python. Open the AutoRoot.py file and run. The tool will install ADB automatically.
 ## ⚖️ License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software, provided that the original copyright notice and permission notice are included in all copies. See the [LICENSE](https://github.com/chucny/autoroot/blob/main/LICENSE) file for details.
