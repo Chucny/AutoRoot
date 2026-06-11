@@ -11,6 +11,6 @@ AutoRoot installs Magisk on your device automatically and pulls your patched boo
 For each step, you just got to press enter and the tool does the step automatically. Sometimes you have to follow simple instructions from the tool if you have to do something manually, for example enabling USB debugging etc.
 ## ⚖️ License
 
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software, provided that the original copyright notice and permission notice are included in all copies. See the LICENSE file for details.
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software, provided that the original copyright notice and permission notice are included in all copies. See the [LICENSE](https://github.com/chucny/autoroot/blob/main/LICENSE) file for details.
 
 **Copyright &copy; Chucny 2026**
